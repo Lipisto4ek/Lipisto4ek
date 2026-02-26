@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Lipisto4ek
-- 🌱 I’m currently learning everything here 👀 
-- 📫 mail@lipisto4ek.ru
+
